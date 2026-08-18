@@ -1,5 +1,9 @@
 # PYTHON_lab04
 #Ayushi Srivastava,2502190039
+
+
+
+
 A Python-based fire-fighting robot system that analyzes temperature, smoke, flame, and distance sensor data. Using NumPy, Pandas, SciPy, and Matplotlib, it calculates fire risk, performs statistical analysis, visualizes sensor trends, and determines robot actions such as searching, approaching, or extinguishing fire.
 # 🔥 Fire-Fighting Robot Sensor Analysis & Decision System
 
