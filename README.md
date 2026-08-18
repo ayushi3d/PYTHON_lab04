@@ -1,4 +1,5 @@
-# ayushi 
+# Ayushi Srivastava,2502190039
+
 
 #🏭 Automated Manufacturing Inspection & Tool-Wear Detection System
 
